@@ -5,7 +5,7 @@ The docker image can be downloaded from docker hub by running the below command
 ```bash
 docker pull abhinabsarkar/abs-aspnetapp:v1.
 ```
-Size of the docker image is 110 MB.
+Size of the docker image is 114 MB.
 
 ### To build the image, run docker build from the root directory of the application
 ```bash
