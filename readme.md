@@ -3,7 +3,7 @@ A sample docker app built on Alpine linux 3.1 version using C# dotnet core versi
 
 The docker image can be downloaded from docker hub by running the below command 
 ```bash
-docker pull abhinabsarkar/abs-aspnetapp:v1.
+docker pull abhinabsarkar/abs-aspnetapp:v1
 ```
 Size of the docker image is 114 MB.
 
